@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.AssemblyInfo.cs
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\pronik\pronik\bin\Debug\net6.0\pronik.exe
+C:\Users\Admin\source\repos\pronik\pronik\bin\Debug\net6.0\pronik.deps.json
+C:\Users\Admin\source\repos\pronik\pronik\bin\Debug\net6.0\pronik.runtimeconfig.json
+C:\Users\Admin\source\repos\pronik\pronik\bin\Debug\net6.0\pronik.dll
+C:\Users\Admin\source\repos\pronik\pronik\bin\Debug\net6.0\pronik.pdb
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.dll
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\refint\pronik.dll
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.pdb
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\pronik.genruntimeconfig.cache
+C:\Users\Admin\source\repos\pronik\pronik\obj\Debug\net6.0\ref\pronik.dll
